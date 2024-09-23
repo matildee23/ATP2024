@@ -1,5 +1,5 @@
 # Relatório do TP1
-## Date: 2024-09-09
+## Data: 2024-09-09
 ## Autor: Matilde Duarte Campos
 ## Resumo
 O tpc da TP1 consistiu na realização de dois exercícios:
