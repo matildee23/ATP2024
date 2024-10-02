@@ -1,4 +1,4 @@
-# Relatório do TP3
+# Relatório da TP3
 ## Data: 2024-09-30
 ## Autor: Matilde Duarte Campos
 ## Resumo
