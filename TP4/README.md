@@ -2,7 +2,7 @@
 ## Data: 2024-10-06
 ## Autor: Matilde Duarte Campos a107190
 ## Resumo
-O tpc da TP4 consisitiu na elaboração de uma aplicação no Pyhton com as seguintes opções:
+O tpc da TP4 consisitiu na elaboração de uma aplicação no Pyhton para a manipulação de listas de inteiros com as seguintes opções:
 * criar uma lista
 * ler uma lista
 * calcular a soma e a média dos elementos da última lista guardada
